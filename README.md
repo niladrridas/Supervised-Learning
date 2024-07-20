@@ -9,6 +9,41 @@ Welcome to the Supervised Learning repository. This repository covers the fundam
 
 Explore the respective branches for detailed explanations and code examples.
 
+
+## Topics Covered
+
+1. **Supervised Learning**:
+    - Overview and concepts
+    - Differences from unsupervised learning
+
+2. **Classification**:
+    - Logistic Regression
+    - Decision Trees
+    - Random Forests
+    - Support Vector Machines
+    - Evaluation metrics: Accuracy, Precision, Recall, F1 Score, ROC-AUC
+
+3. **Regression**:
+    - Linear Regression
+    - Polynomial Regression
+    - Ridge Regression
+    - Lasso Regression
+    - Evaluation metrics: MSE, MAE, R-squared
+
+4. **Data Preparation**:
+    - Generating datasets using NumPy
+    - Data cleaning and preprocessing with Pandas
+    - Feature selection and engineering
+
+5. **Model Training and Evaluation**:
+    - Splitting data into training and testing sets
+    - Training models using Scikit-learn
+    - Model evaluation and performance metrics
+
+6. **Model Saving and Loading**:
+    - Saving models with Joblib
+    - Loading and using saved models
+
 ## Libraries and Frameworks Used
 
 This repository uses the following Python libraries and frameworks:
