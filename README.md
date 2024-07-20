@@ -9,7 +9,6 @@ Welcome to the Supervised Learning repository. This repository covers the fundam
 
 Explore the respective branches for detailed explanations and code examples.
 
-
 ## Topics Covered
 
 1. **Supervised Learning**:
@@ -247,3 +246,7 @@ joblib.dump(model, '../models/linear_regression_model.pkl')
     ```bash
     git push origin regression
     ```
+
+## More Information
+
+Please explore the respective branches for detailed explanations and code examples related to classification and regression techniques in supervised learning.
