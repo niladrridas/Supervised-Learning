@@ -24,6 +24,10 @@ This branch contains resources and examples related to regression algorithms in 
 * Lasso Regression
 * and more...
 
+### Trained Models
+
+* `linear_regression_model.pkl`: a trained Linear Regression model, serialized using the `pickle` library. This model was trained on the `loan_train.csv` dataset and can be used to make predictions on new data.
+
 ### Evaluation Metrics
 
 * Mean Squared Error
