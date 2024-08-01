@@ -4,8 +4,9 @@ Welcome to the Supervised Learning repository. This repository covers the fundam
 
 ## Branches
 
-- [Classification](https://github.com/niladrridas/Supervised-Learning/tree/classification)
-- [Regression](https://github.com/niladrridas/Supervised-Learning/tree/regression)
+- [Classification](https://github.com/niladrridas/Supervised-Learning/tree/Classification)
+- [Regression](https://github.com/niladrridas/Supervised-Learning/tree/Regression)
+- [Setup](https://github.com/niladrridas/Supervised-Learning/tree/gh-pages)
 
 Explore the respective branches for detailed explanations and code examples.
 
